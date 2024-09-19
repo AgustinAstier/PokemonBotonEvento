@@ -1,0 +1,17 @@
+.cartas{
+    background-color: blue;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .card{
+    width: 100px;
+    height: 40px;
+    font-size: 5px;
+    text-align: center;
+    background-color: yellow;
+    margin: 3px;
+  }
